@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 320 320" xml:space="preserve">
+  <title>Noise Bar</title>
+  <rect x="75" y="75" fill="#20BEB6" width="20" height="20"></rect>
+  <rect x="105" y="75" fill="#2BC5B3" width="20" height="20"></rect>
+  <rect x="105" y="45" fill="#2BC5B3" width="20" height="20"></rect>
+  <rect x="75" y="105" fill="#20BEB6" width="20" height="20"></rect>
+  <rect x="105" y="105" fill="#2BC5B3" width="20" height="20"></rect>
+  <rect x="135" y="105" fill="#35CCB0" width="20" height="20"></rect>
+  <rect x="45" y="135" fill="#16B8B9" width="20" height="20"></rect>
+  <rect x="75" y="135" fill="#20BEB6" width="20" height="20"></rect>
+  <rect x="105" y="135" fill="#2BC5B3" width="20" height="20"></rect>
+  <rect x="135" y="135" fill="#35CCB0" width="20" height="20"></rect>
+  <rect x="255" y="135" fill="#5EE5A4" width="20" height="20"></rect>
+  <rect x="15" y="165" fill="#0CB2BC" width="20" height="20"></rect>
+  <rect x="45" y="165" fill="#16B8B9" width="20" height="20"></rect>
+  <rect x="75" y="165" fill="#20BEB6" width="20" height="20"></rect>
+  <rect x="135" y="165" fill="#35CCB0" width="20" height="20"></rect>
+  <rect x="165" y="165" fill="#40D2AD" width="20" height="20"></rect>
+  <rect x="255" y="165" fill="#5EE5A4" width="20" height="20"></rect>
+  <rect x="285" y="165" fill="#6AEDA1" width="20" height="20"></rect>
+  <rect x="165" y="195" fill="#40D2AD" width="20" height="20"></rect>
+  <rect x="195" y="195" fill="#4AD9AA" width="20" height="20"></rect>
+  <rect x="225" y="195" fill="#55E0A7" width="20" height="20"></rect>
+  <rect x="255" y="195" fill="#5EE5A4" width="20" height="20"></rect>
+  <rect x="195" y="225" fill="#4AD9AA" width="20" height="20"></rect>
+  <rect x="225" y="225" fill="#55E0A7" width="20" height="20"></rect>
+  <rect x="225" y="255" fill="#55E0A7" width="20" height="20"></rect>
+</svg>
