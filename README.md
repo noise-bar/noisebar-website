@@ -2,6 +2,8 @@
 
 # Noise Bar
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11fef3c8-b2bd-4d49-83f0-bca0958ab1ce/deploy-status)](https://app.netlify.com/sites/noisebar/deploys)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
