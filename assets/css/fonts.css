@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Chivo Mono';
+  src: url('assets/fonts/Chivo_Mono/static/ChivoMono-Regular.ttf')
+    format('truetype');
+}
+
+@font-face {
+  font-family: 'Space Mono';
+  src: url('assets/fonts/Space_Mono/SpaceMono-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Major Mono Display';
+  src: url('assets/fonts/Major_Mono_Display/MajorMonoDisplay-Regular.ttf')
+    format('truetype');
+}
+
+@font-face {
+  font-family: 'Blackout';
+  src: url('assets/fonts/Blackout/Blackout Midnight.ttf') format('truetype');
+}

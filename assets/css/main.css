@@ -1,0 +1,7 @@
+// Safari disable zoom on double-tap
+body,
+ul,
+li,
+span {
+  touch-action: manipulation;
+}

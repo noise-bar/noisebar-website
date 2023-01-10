@@ -1,6 +1,12 @@
 <template>
   <div id="default-layout">
-    <LayoutHeader />
+    <LayoutSiteHeader />
     <slot />
   </div>
 </template>
+<style>
+body {
+  @apply bg-peach
+  text-navy;
+}
+</style>
